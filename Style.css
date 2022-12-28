@@ -463,6 +463,7 @@ h3.my-profession
 /*contact*/
 .contact-title
 {
+    margin-left: 25px
     color: var(--skin-color);
     text-align: center;
     font-size: 25px;
